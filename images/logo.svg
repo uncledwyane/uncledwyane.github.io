@@ -1,0 +1,19 @@
+<svg width="949" height="256" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_6_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+  <filter id="svg_7_blur">
+   <feGaussianBlur stdDeviation="0.5" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-style="normal" font-weight="normal" filter="url(#svg_6_blur)" stroke="#000" transform="matrix(6.8596906661987305,0,0,6.8596906661987305,-2039.1723518371582,-478.57192362844944) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="24" id="svg_6" y="98.04451" x="345.094433" stroke-width="0" fill="#000000">HYWB</text>
+  <path filter="url(#svg_7_blur)" id="svg_7" d="m260.510141,229.246703c0,3.178315 -2.574982,5.753305 -5.753315,5.753305l-36.842672,0c-3.178316,0 -5.753307,-2.574982 -5.753307,-5.753305l0,-78.273516c0,-3.17807 2.574982,-5.753305 5.753307,-5.753305l36.842672,0c3.178332,0 5.753315,2.575235 5.753315,5.753305l0,78.273516zm-136.401753,0c0,3.178315 -2.575489,5.753305 -5.753315,5.753305l-36.84317,0c-3.177826,0 -5.753307,-2.574982 -5.753307,-5.753305l0,-78.273516c0,-3.17807 2.575481,-5.753305 5.753307,-5.753305l36.84317,0c3.177826,0 5.753315,2.575235 5.753315,5.753305l0,78.273516zm44.510938,-212.246703c-66.668673,0 -120.788183,53.630067 -121.619326,120.095271l21.10675,0c0.684411,-54.934223 45.415689,-99.257874 100.512577,-99.257874c55.096879,0 99.828182,44.323652 100.504592,99.257874l21.106259,0c-0.822676,-66.465204 -54.958107,-120.095271 -121.610859,-120.095271l0.000008,0zm-121.448222,180.978038l20.723756,0l0,-61.005119l-20.723756,0l0,61.005119zm221.781733,-61.013333l0,61.005381l21.489229,0l0,-61.005381l-21.489229,0z" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="null" fill="#2366d1"/>
+ </g>
+</svg>
