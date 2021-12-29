@@ -1,8 +1,8 @@
 ---
-title: ES6学习
+title: es6的一些改变
 thumbnail: https://cdn.jsdelivr.net/gh/uncledwyane/imageBed/img/es6.png
 date: 2020-04-28 13:48:40
-tags: ES6
+tags: JavaScript
 toc: true
 categories: JavaScript
 ---
@@ -382,4 +382,3 @@ var s = new Set([1, 2, 3, 4]);
         display: none;
     }
 </style>
-
